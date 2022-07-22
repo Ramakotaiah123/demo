@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="7" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-22T12:04:56 IST" name="Surefire suite" finished-at="2022-07-22T12:07:03 IST" duration-ms="126630">
+    <groups>
+    </groups>
+    <test started-at="2022-07-22T12:04:56 IST" name="Surefire test" finished-at="2022-07-22T12:07:03 IST" duration-ms="126630">
+      <class name="com.Mystore.testcases.IndexPageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Mystore.testcases.IndexPageTest@6a28ffa4]" started-at="2022-07-22T12:05:29 IST" name="Setup" finished-at="2022-07-22T12:05:40 IST" duration-ms="11389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyLog()[pri:0, instance:com.Mystore.testcases.IndexPageTest@6a28ffa4]" started-at="2022-07-22T12:05:40 IST" name="VerifyLog" finished-at="2022-07-22T12:05:41 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLog -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:com.Mystore.testcases.IndexPageTest@6a28ffa4]" started-at="2022-07-22T12:05:41 IST" name="teradown" finished-at="2022-07-22T12:05:42 IST" duration-ms="928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Mystore.testcases.IndexPageTest@6a28ffa4]" started-at="2022-07-22T12:05:42 IST" name="Setup" finished-at="2022-07-22T12:05:57 IST" duration-ms="15728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyTitle()[pri:0, instance:com.Mystore.testcases.IndexPageTest@6a28ffa4]" started-at="2022-07-22T12:05:57 IST" name="VerifyTitle" finished-at="2022-07-22T12:05:57 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitle -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:com.Mystore.testcases.IndexPageTest@6a28ffa4]" started-at="2022-07-22T12:05:57 IST" name="teradown" finished-at="2022-07-22T12:05:58 IST" duration-ms="909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+      </class> <!-- com.Mystore.testcases.IndexPageTest -->
+      <class name="com.Mystore.testcases.LoginLPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@48ae9b55]" started-at="2022-07-22T12:05:58 IST" name="setup" finished-at="2022-07-22T12:06:10 IST" duration-ms="11559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CrateAccount()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@48ae9b55]" started-at="2022-07-22T12:06:10 IST" name="CrateAccount" finished-at="2022-07-22T12:06:17 IST" duration-ms="6996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrateAccount -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@48ae9b55]" started-at="2022-07-22T12:06:17 IST" name="teardown" finished-at="2022-07-22T12:06:18 IST" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@48ae9b55]" started-at="2022-07-22T12:06:18 IST" name="setup" finished-at="2022-07-22T12:06:32 IST" duration-ms="13909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@48ae9b55]" started-at="2022-07-22T12:06:32 IST" name="login" finished-at="2022-07-22T12:07:02 IST" duration-ms="30153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@48ae9b55]" started-at="2022-07-22T12:07:02 IST" name="teardown" finished-at="2022-07-22T12:07:03 IST" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Mystore.testcases.LoginLPageTest -->
+      <class name="com.Mystore.testcases.HomePageTest">
+        <test-method is-config="true" signature="loadconfig()[pri:0, instance:com.Mystore.testcases.HomePageTest@9353778]" started-at="2022-07-22T12:04:56 IST" name="loadconfig" finished-at="2022-07-22T12:04:56 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadconfig -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Mystore.testcases.HomePageTest@9353778]" started-at="2022-07-22T12:04:56 IST" name="setup" finished-at="2022-07-22T12:05:15 IST" duration-ms="18582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verifylists()[pri:0, instance:com.Mystore.testcases.HomePageTest@9353778]" started-at="2022-07-22T12:05:15 IST" name="Verifylists" finished-at="2022-07-22T12:05:28 IST" duration-ms="13438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifylists -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Mystore.testcases.HomePageTest@9353778]" started-at="2022-07-22T12:05:28 IST" name="teardown" finished-at="2022-07-22T12:05:29 IST" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Mystore.testcases.HomePageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

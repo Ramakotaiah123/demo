@@ -1,0 +1,14 @@
+com\Mystore\pages\AddtoCartPage.class
+com\Mystore\base\BaseClass.class
+com\Mystore\pages\PaymentPage.class
+com\Mystore\pages\ShippingPage.class
+com\Mystore\pages\LoginPage.class
+com\Mystore\pages\HomePage.class
+com\Mystore\pages\IndexPage.class
+com\Mystore\pages\AddersPage.class
+com\Mystore\pages\OrderPage.class
+com\Mystore\pages\OrdersummaryPage.class
+com\Mystore\pages\SearchREsultPage.class
+com\Mystore\action\Action.class
+com\Mystore\pages\OrderConformationPage.class
+com\Mystore\pages\AccountCreatePage.class
