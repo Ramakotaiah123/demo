@@ -6,10 +6,10 @@
       <class name="com.Mystore.testcases.LoginLPageTest">
         <methods>
           <include name="setup"/>
-          <include name="loadconfig"/>
           <include name="teardown"/>
-          <include name="login"/>
           <include name="CrateAccount"/>
+          <include name="loadconfig"/>
+          <include name="beforesyite"/>
         </methods>
       </class> <!-- com.Mystore.testcases.LoginLPageTest -->
     </classes>

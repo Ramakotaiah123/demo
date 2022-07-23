@@ -11,6 +11,7 @@ import com.Mystore.base.BaseClass;
 import com.Mystore.pages.HomePage;
 import com.Mystore.pages.IndexPage;
 import com.Mystore.pages.LoginPage;
+import com.Mystore.utilitys.Log;
 
 public class HomePageTest extends BaseClass{
 	

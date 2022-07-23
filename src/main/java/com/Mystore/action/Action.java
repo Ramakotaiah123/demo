@@ -36,9 +36,9 @@ import com.Mystore.base.BaseClass;
 public class Action extends BaseClass {
 
 
-	public void scrollByVisibilityOfElement(WebDriver driver, WebElement ele) {
+	public void scrollByVisibilityOfElement(WebDriver driver, WebElement email) {
 		JavascriptExecutor js = (JavascriptExecutor) driver;
-		js.executeScript("arguments[0].scrollIntoView();", ele);
+		js.executeScript("arguments[0].scrollIntoView();", email);
 
 	}
 

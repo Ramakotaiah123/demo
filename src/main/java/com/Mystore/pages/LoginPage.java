@@ -33,7 +33,7 @@ public class LoginPage extends BaseClass{
 	
 
 	public HomePage Login(String usr,String pws) {
-	//	action.fluentWait(driver, LoginPage, 10);
+		action.scrollByVisibilityOfElement(driver, email);
 		action.type(email,usr);
 		action.type(password, pws);
 		action.click(driver, submitbtn);
