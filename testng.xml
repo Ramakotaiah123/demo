@@ -9,6 +9,7 @@
       <class name="com.Mystore.testcases.LoginLPageTest"/>
         <class name="com.Mystore.testcases.indexPageTest"/>
       <class name="com.Mystore.testcases.HomePageTest"/>
+           <class name="com.Mystore.testcases.endtoendTestPage"/>
      
     </classes>
   </test> <!-- Test -->

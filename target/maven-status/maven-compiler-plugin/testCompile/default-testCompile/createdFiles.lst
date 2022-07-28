@@ -1,3 +1,4 @@
+com\Mystore\testcases\endtoendTestPage.class
 com\Mystore\testcases\HomePageTest.class
 com\Mystore\testcases\LoginLPageTest.class
 com\Mystore\testcases\IndexPageTest.class

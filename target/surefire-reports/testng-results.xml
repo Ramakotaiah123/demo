@@ -2,80 +2,80 @@
 <testng-results ignored="4" total="9" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-28T15:08:57 IST" name="Surefire suite" finished-at="2022-07-28T15:10:43 IST" duration-ms="106230">
+  <suite started-at="2022-07-28T16:15:48 IST" name="Surefire suite" finished-at="2022-07-28T16:17:50 IST" duration-ms="122568">
     <groups>
     </groups>
-    <test started-at="2022-07-28T15:08:57 IST" name="Surefire test" finished-at="2022-07-28T15:10:43 IST" duration-ms="106230">
+    <test started-at="2022-07-28T16:15:48 IST" name="Surefire test" finished-at="2022-07-28T16:17:50 IST" duration-ms="122568">
       <class name="com.Mystore.testcases.IndexPageTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T15:09:37 IST" name="Setup" finished-at="2022-07-28T15:09:48 IST" duration-ms="11069" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T16:16:23 IST" name="Setup" finished-at="2022-07-28T16:16:33 IST" duration-ms="10547" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="VerifyLog()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T15:09:48 IST" name="VerifyLog" finished-at="2022-07-28T15:09:48 IST" duration-ms="100" status="PASS">
+        <test-method signature="VerifyLog()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T16:16:33 IST" name="VerifyLog" finished-at="2022-07-28T16:16:33 IST" duration-ms="105" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyLog -->
-        <test-method is-config="true" signature="teradown()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T15:09:48 IST" name="teradown" finished-at="2022-07-28T15:09:49 IST" duration-ms="911" status="PASS">
+        <test-method is-config="true" signature="teradown()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T16:16:33 IST" name="teradown" finished-at="2022-07-28T16:16:34 IST" duration-ms="858" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teradown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T15:09:49 IST" name="Setup" finished-at="2022-07-28T15:10:03 IST" duration-ms="13736" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T16:16:34 IST" name="Setup" finished-at="2022-07-28T16:16:43 IST" duration-ms="8610" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="VerifyTitle()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T15:10:03 IST" name="VerifyTitle" finished-at="2022-07-28T15:10:03 IST" duration-ms="8" status="PASS">
+        <test-method signature="VerifyTitle()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T16:16:43 IST" name="VerifyTitle" finished-at="2022-07-28T16:16:43 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyTitle -->
-        <test-method is-config="true" signature="teradown()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T15:10:03 IST" name="teradown" finished-at="2022-07-28T15:10:05 IST" duration-ms="1822" status="PASS">
+        <test-method is-config="true" signature="teradown()[pri:0, instance:com.Mystore.testcases.IndexPageTest@1700915]" started-at="2022-07-28T16:16:43 IST" name="teradown" finished-at="2022-07-28T16:16:44 IST" duration-ms="865" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teradown -->
       </class> <!-- com.Mystore.testcases.IndexPageTest -->
       <class name="com.Mystore.testcases.LoginLPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T15:10:05 IST" name="setup" finished-at="2022-07-28T15:10:15 IST" duration-ms="10317" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T16:16:44 IST" name="setup" finished-at="2022-07-28T16:16:57 IST" duration-ms="12714" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="CrateAccount()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T15:10:15 IST" name="CrateAccount" finished-at="2022-07-28T15:10:20 IST" duration-ms="5564" status="PASS">
+        <test-method signature="CrateAccount()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T16:16:57 IST" name="CrateAccount" finished-at="2022-07-28T16:17:09 IST" duration-ms="12810" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CrateAccount -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T15:10:20 IST" name="teardown" finished-at="2022-07-28T15:10:21 IST" duration-ms="921" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T16:17:09 IST" name="teardown" finished-at="2022-07-28T16:17:10 IST" duration-ms="835" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T15:10:21 IST" name="setup" finished-at="2022-07-28T15:10:32 IST" duration-ms="10300" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T16:17:10 IST" name="setup" finished-at="2022-07-28T16:17:20 IST" duration-ms="10213" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="login()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T15:10:32 IST" name="login" finished-at="2022-07-28T15:10:42 IST" duration-ms="10588" status="PASS">
+        <test-method signature="login()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T16:17:20 IST" name="login" finished-at="2022-07-28T16:17:49 IST" duration-ms="28801" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T15:10:42 IST" name="teardown" finished-at="2022-07-28T15:10:43 IST" duration-ms="916" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Mystore.testcases.LoginLPageTest@21de60b4]" started-at="2022-07-28T16:17:49 IST" name="teardown" finished-at="2022-07-28T16:17:50 IST" duration-ms="951" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.Mystore.testcases.LoginLPageTest -->
       <class name="com.Mystore.testcases.HomePageTest">
-        <test-method is-config="true" signature="loadconfig()[pri:0, instance:com.Mystore.testcases.HomePageTest@48ae9b55]" started-at="2022-07-28T15:08:56 IST" name="loadconfig" finished-at="2022-07-28T15:08:57 IST" duration-ms="822" status="PASS">
+        <test-method is-config="true" signature="loadconfig()[pri:0, instance:com.Mystore.testcases.HomePageTest@48ae9b55]" started-at="2022-07-28T16:15:47 IST" name="loadconfig" finished-at="2022-07-28T16:15:48 IST" duration-ms="560" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadconfig -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.Mystore.testcases.HomePageTest@48ae9b55]" started-at="2022-07-28T15:08:57 IST" name="setup" finished-at="2022-07-28T15:09:18 IST" duration-ms="20552" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Mystore.testcases.HomePageTest@48ae9b55]" started-at="2022-07-28T16:15:48 IST" name="setup" finished-at="2022-07-28T16:16:04 IST" duration-ms="15927" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Verifylists()[pri:0, instance:com.Mystore.testcases.HomePageTest@48ae9b55]" started-at="2022-07-28T15:09:18 IST" name="Verifylists" finished-at="2022-07-28T15:09:35 IST" duration-ms="17616" status="PASS">
+        <test-method signature="Verifylists()[pri:0, instance:com.Mystore.testcases.HomePageTest@48ae9b55]" started-at="2022-07-28T16:16:04 IST" name="Verifylists" finished-at="2022-07-28T16:16:22 IST" duration-ms="18386" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verifylists -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Mystore.testcases.HomePageTest@48ae9b55]" started-at="2022-07-28T15:09:35 IST" name="teardown" finished-at="2022-07-28T15:09:37 IST" duration-ms="1738" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Mystore.testcases.HomePageTest@48ae9b55]" started-at="2022-07-28T16:16:22 IST" name="teardown" finished-at="2022-07-28T16:16:23 IST" duration-ms="875" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="afertsutie()[pri:0, instance:com.Mystore.testcases.HomePageTest@48ae9b55]" started-at="2022-07-28T15:10:43 IST" name="afertsutie" finished-at="2022-07-28T15:10:43 IST" duration-ms="14" status="PASS">
+        <test-method is-config="true" signature="afertsutie()[pri:0, instance:com.Mystore.testcases.HomePageTest@48ae9b55]" started-at="2022-07-28T16:17:50 IST" name="afertsutie" finished-at="2022-07-28T16:17:50 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afertsutie -->

@@ -125,3 +125,30 @@
 2022-07-28 15:10:42 INFO  Log:22 - verify adim able to login
 2022-07-28 15:10:42 INFO  Log:22 - login sucess
 2022-07-28 15:10:42 INFO  Log:15 - =====================================sucess TEST END=========================================
+2022-07-28 16:02:29 INFO  Log:11 - =====================================CrateAccount TEST START=========================================
+2022-07-28 16:02:29 INFO  Log:22 - click on singn in btn
+2022-07-28 16:02:43 INFO  Log:22 - enter email id
+2022-07-28 16:02:54 INFO  Log:11 - =====================================login TEST START=========================================
+2022-07-28 16:02:54 INFO  Log:22 - click on singn in btn
+2022-07-28 16:03:02 INFO  Log:22 - enter user,password
+2022-07-28 16:03:06 INFO  Log:22 - verify adim able to login
+2022-07-28 16:03:06 INFO  Log:22 - login sucess
+2022-07-28 16:03:06 INFO  Log:15 - =====================================sucess TEST END=========================================
+2022-07-28 16:09:18 INFO  Log:11 - =====================================CrateAccount TEST START=========================================
+2022-07-28 16:09:18 INFO  Log:22 - click on singn in btn
+2022-07-28 16:09:25 INFO  Log:22 - enter email id
+2022-07-28 16:09:37 INFO  Log:11 - =====================================login TEST START=========================================
+2022-07-28 16:09:37 INFO  Log:22 - click on singn in btn
+2022-07-28 16:09:44 INFO  Log:22 - enter user,password
+2022-07-28 16:09:48 INFO  Log:22 - verify adim able to login
+2022-07-28 16:09:48 INFO  Log:22 - login sucess
+2022-07-28 16:09:48 INFO  Log:15 - =====================================sucess TEST END=========================================
+2022-07-28 16:16:57 INFO  Log:11 - =====================================CrateAccount TEST START=========================================
+2022-07-28 16:16:57 INFO  Log:22 - click on singn in btn
+2022-07-28 16:17:09 INFO  Log:22 - enter email id
+2022-07-28 16:17:20 INFO  Log:11 - =====================================login TEST START=========================================
+2022-07-28 16:17:20 INFO  Log:22 - click on singn in btn
+2022-07-28 16:17:39 INFO  Log:22 - enter user,password
+2022-07-28 16:17:49 INFO  Log:22 - verify adim able to login
+2022-07-28 16:17:49 INFO  Log:22 - login sucess
+2022-07-28 16:17:49 INFO  Log:15 - =====================================sucess TEST END=========================================
