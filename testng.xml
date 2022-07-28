@@ -7,6 +7,9 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.Mystore.testcases.LoginLPageTest"/>
+        <class name="com.Mystore.testcases.indexPageTest"/>
+      <class name="com.Mystore.testcases.HomePageTest"/>
+     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -1,4 +1,4 @@
-package com.Mystore.pages;
+ package com.Mystore.pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

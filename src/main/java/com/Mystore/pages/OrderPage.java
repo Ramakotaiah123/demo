@@ -37,8 +37,11 @@ public class OrderPage extends BaseClass{
 		double finalprice=   Double.parseDouble(total); 
 		return finalprice/100;
 			}
-public LoginPage ClickonProceedtoCheckout() {
+public LoginPage ClickonProceedtoCheckout() throws Exception {
+	
 	action.click(driver, proceedtoCheckout);
+	
+//	action.click(driver, proceedtoCheckout);
 	return new LoginPage();
 }
 
